@@ -1,7 +1,7 @@
 # Image-separation-from-Collage
 
 ## NEED:
-There are alot of collage maker softwares available but here you go with collage spillter. 
+There are alot of collage maker softwares available but here you go with collage splitter. 
 
 ## ABOUT PROJECT:
 It's an AI project which extract all images from collage.<br>
